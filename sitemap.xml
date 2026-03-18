@@ -1,16 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-  <loc>https://all-in-onetool.lovable.app/</loc>
-  <lastmod>2026-03-18T08:13:38+00:00</lastmod>
+<loc>https://all-in-onetool.lovable.app/</loc>
+<changefreq>daily</changefreq>
+<priority>1.0</priority>
 </url>
 
+<!-- Tools -->
+<url><loc>https://all-in-onetool.lovable.app/word-counter</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://all-in-onetool.lovable.app/password-generator</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://all-in-onetool.lovable.app/qr-generator</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://all-in-onetool.lovable.app/color-picker</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://all-in-onetool.lovable.app/image-compressor</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://all-in-onetool.lovable.app/image-resizer</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://all-in-onetool.lovable.app/text-to-speech</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://all-in-onetool.lovable.app/url-shortener</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://all-in-onetool.lovable.app/jpg-to-pdf</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://all-in-onetool.lovable.app/pdf-to-jpg</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://all-in-onetool.lovable.app/background-remover</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+<!-- SEO Pages -->
+<url><loc>https://all-in-onetool.lovable.app/compress-image-to-20kb</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://all-in-onetool.lovable.app/compress-image-to-50kb</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://all-in-onetool.lovable.app/passport-size-photo-maker-india</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://all-in-onetool.lovable.app/signature-resize-online</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://all-in-onetool.lovable.app/convert-jpg-to-pdf-under-100kb</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://all-in-onetool.lovable.app/image-compressor-for-online-forms</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://all-in-onetool.lovable.app/resize-image-for-whatsapp-dp</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://all-in-onetool.lovable.app/convert-png-to-jpg-online</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://all-in-onetool.lovable.app/reduce-image-size-without-losing-quality</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://all-in-onetool.lovable.app/free-qr-code-generator</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+<!-- Content -->
+<url><loc>https://all-in-onetool.lovable.app/guides</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
+<url><loc>https://all-in-onetool.lovable.app/compare</loc><changefreq>weekly</changefreq><priority>0.6</priority></url>
+
+<!-- Legal -->
+<url><loc>https://all-in-onetool.lovable.app/about-us</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+<url><loc>https://all-in-onetool.lovable.app/contact-us</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+<url><loc>https://all-in-onetool.lovable.app/privacy-policy</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+<url><loc>https://all-in-onetool.lovable.app/terms-of-service</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+<url><loc>https://all-in-onetool.lovable.app/disclaimer</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+<url><loc>https://all-in-onetool.lovable.app/dmca</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
 
 </urlset>
